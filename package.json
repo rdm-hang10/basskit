@@ -1,0 +1,19 @@
+{
+  "name": "basskit",
+  "version": "1.0.0",
+  "description": "Sass mixins for generating basscss-like utilities.",
+  "main": "_basskit.scss",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rdm-hang10/basskit.git"
+  },
+  "author": "Richard Dominguez",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/rdm-hang10/basskit/issues"
+  },
+  "homepage": "https://github.com/rdm-hang10/basskit#readme"
+}
