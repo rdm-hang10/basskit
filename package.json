@@ -1,6 +1,6 @@
 {
   "name": "basskit",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Sass mixins for generating basscss-like utilities.",
   "main": "_basskit.scss",
   "scripts": {
